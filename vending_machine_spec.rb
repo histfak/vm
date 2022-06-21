@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative './main'
+require_relative './vending_machine'
 
 RSpec.describe VendingMachine do
   context 'Vending Machine check' do
